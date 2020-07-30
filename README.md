@@ -14,12 +14,6 @@
   <a href="#-Iniciando">Iniciando</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="" rel="noopener">
-    <img height="550" alt="Layout" src="https://gyazo.com/64d79a3e6d9313688990155a1aabba75.gif">
-  </a>
-</p>
-
 ## 💼 Sobre o projeto
 
 Desenvolva uma aplicação onde textos possam ser postados de forma livre e, estes textos, possam ter

@@ -13,7 +13,7 @@ import api from '../../services/api';
 
 import { Container, Content } from './styles';
 
-export default function Login({ navigation }) {
+export default function CreateMessage({ navigation }) {
   const formRef = useRef(null);
   const [loading] = useState(false);
 
@@ -27,7 +27,7 @@ export default function Login({ navigation }) {
 
       await schema.validate(data, { abortEarly: false });
 
-      const response = await api.post('feed', data);
+      await api.post('feed', data);
 
       Alert.alert('Mensagem postada com sucesso!');
       navigation.navigate('Main');

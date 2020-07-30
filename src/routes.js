@@ -27,7 +27,7 @@ function Routes() {
         <Stack.Screen
           name="CreateMessage"
           component={CreateMessage}
-          options={({}) => ({
+          options={({ navigation }) => ({
             headerTitle: () => (
               <View style={{ flex: 1 }}>
                 <Text

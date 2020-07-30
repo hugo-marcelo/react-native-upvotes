@@ -40,6 +40,7 @@ export default function SignUp({ navigation }) {
       await api.post('sign-up', data);
 
       Alert.alert('Cadastro realizado', 'Usuário cadastrado com sucesso!');
+
       navigation.goBack();
     } catch (err) {
       if (err instanceof ValidationError) {

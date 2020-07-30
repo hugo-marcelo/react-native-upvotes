@@ -31,9 +31,6 @@ export default function Main() {
   async function loadMessages() {
     setLoading(true);
     const response = await api.get('feeds');
-
-    console.log(response);
-
     setMessages(response.data);
     setLoading(false);
   }
