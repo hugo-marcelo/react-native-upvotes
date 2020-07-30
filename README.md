@@ -3,22 +3,8 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hugo-marcelo/react-native-upvotes">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hugo-marcelo/react-native-upvotes">
-
-  <a href="https://www.linkedin.com/in/hugo-marcelo/">
+ <a href="https://www.linkedin.com/in/hugo-marcelo/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Hugo%20Marcelo-gree">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hugo-marcelo/react-native-upvotes">
-
-  <a href="https://github.com/hugo-marcelo/react-native-upvotes/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hugo-marcelo/react-native-upvotes">
-  </a>
-
-  <a href="https://github.com/hugo-marcelo/react-native-upvotes/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/hugo-marcelo/react-native-upvotes">
   </a>
 </p>
 
