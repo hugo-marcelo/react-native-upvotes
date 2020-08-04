@@ -2,10 +2,12 @@
   Upvotes App
 </h1>
 
-<p align="center">
- <a href="https://www.linkedin.com/in/hugo-marcelo/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Hugo%20Marcelo-gree">
-  </a>
+<p align = "center">
+<a href="https://www.codefactor.io/repository/github/hugo-marcelo/react-native-upvotes"><img src="https://www.codefactor.io/repository/github/hugo-marcelo/react-native-upvotes/badge" alt="CodeFactor" /></a>
+<img alt = "Última confirmação do Github" src = "https://img.shields.io/github/last-commit/hugo-marcelo/react-native-upvotes">
+<img alt = "Idioma principal do GitHub" src = "https://img.shields.io/github/languages/top/hugo-marcelo/react-native-upvotes">
+<img alt = "GitHub" src = "https://img.shields.io/github/license/hugo-marcelo/react-native-upvotes.svg">
+<a href="https://www.codacy.com/manual/hugo-marcelo/react-native-upvotes?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hugo-marcelo/react-native-upvotes&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/147d0b2836734c79b7ee5ea035f065b4"/></a>
 </p>
 
 <p align="center">
